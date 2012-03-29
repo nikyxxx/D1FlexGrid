@@ -13,7 +13,7 @@ namespace WindowsFormsApplication1
     {
         public Form3()
         {
-            //the 2nd edit!
+            //the 3nd edit!
             InitializeComponent();
         }
 
