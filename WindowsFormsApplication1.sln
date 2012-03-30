@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{D9669881-B96F-4754-A71A-D002EA8A005B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D1FlexGridTest", "D1FlexGridTest\D1FlexGridTest.csproj", "{E239DEFF-7D08-4C31-A28C-D3630A475DAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{D9669881-B96F-4754-A71A-D002EA8A005B}.Debug|x86.Build.0 = Debug|x86
 		{D9669881-B96F-4754-A71A-D002EA8A005B}.Release|x86.ActiveCfg = Release|x86
 		{D9669881-B96F-4754-A71A-D002EA8A005B}.Release|x86.Build.0 = Release|x86
+		{E239DEFF-7D08-4C31-A28C-D3630A475DAA}.Debug|x86.ActiveCfg = Debug|x86
+		{E239DEFF-7D08-4C31-A28C-D3630A475DAA}.Debug|x86.Build.0 = Debug|x86
+		{E239DEFF-7D08-4C31-A28C-D3630A475DAA}.Release|x86.ActiveCfg = Release|x86
+		{E239DEFF-7D08-4C31-A28C-D3630A475DAA}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

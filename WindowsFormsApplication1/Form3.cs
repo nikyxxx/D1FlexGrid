@@ -30,10 +30,7 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int dd;
-            Random rnd = new Random();
-            dd = rnd.Next(cint(0.06 * 100), 10);
-            this.textBox1.Text = dd.ToString();
+            
         }
 	
 		#endregion
